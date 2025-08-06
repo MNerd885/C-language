@@ -26,5 +26,6 @@ int main() {
             nword++;
         }
     }
-     printf("%2d \t %2d \t %2d \n", nline, nchar, nword);
+    printf("N_linee \t N_chars \t N_words \n");
+    printf("%2d \t\t %2d \t\t %2d \n", nline, nchar, nword);
 }
